@@ -16,24 +16,14 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
   var loveYouToo= "I love you, too."
-
-    if (string = "I love you, Grandma.") {
-    return loveYouToo
-  }
-}
-
-function sayHiToGrandma(string) {
+  var yesIndeed = "YES INDEED!"
   var cantHear = "I can't hear you!"
-  if (string = string.toLowerCase) {
- return cantHear
+    if (string === "I love you, Grandma.") {
+    return loveYouToo
+  } else if if (string === string.toUpperCase) {
+   return yesIndeed
+ } else {
+   return cantHear
 }
-
-function sayHiToGrandma(string) {
-    var yesIndeed = "YES INDEED!"
-    if (string = string.toUpperCase) {
-     return yesIndeed
-   }
-}
-
 
 }
