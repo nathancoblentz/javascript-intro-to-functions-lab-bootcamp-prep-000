@@ -36,4 +36,3 @@ function sayHiToGrandma(string) {
   if (string = string.toLowerCase) {
  return cantHear
 }
-
