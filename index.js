@@ -17,18 +17,16 @@ function logWhisper(string) {
 function allCaps {
 
 }
+
 function sayHiToGrandma(string) {
   var loveYouToo= "I love you, too."
   var yesIndeed = "YES INDEED!"
   var cantHear = "I can't hear you!"
     if (string === "I love you, Grandma.") {
-    console.log(loveYouToo)
     return loveYouToo
   } else if  (string === string.toUpperCase) {
-   console.log(yesIndeed)
    return yesIndeed
  } else {
-   console.log(cantHear)
    return cantHear
 }
 
