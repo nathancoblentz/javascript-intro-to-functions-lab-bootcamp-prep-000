@@ -21,16 +21,3 @@ function sayHiToGrandma(string) {
     return loveYouToo
   }
 }
-
-function sayHiToGrandma(string) {
-    var yesIndded = "YES INDEED!"
-    if (string = string.toUpperCase) {
-     return yesIndeed
-   }
-}
-
-function sayHiToGrandma(string) {
-  var cantHear = "I can't hear you!"
-  if (string = string.toLowerCase) {
- return cantHear
-}
