@@ -29,10 +29,9 @@ function sayHiToGrandma(string) {
    }
 }
 
-learn test
-
 function sayHiToGrandma(string) {
   var cantHear = "I can't hear you!"
   if (string = string.toLowerCase) {
  return cantHear
+}
 }
