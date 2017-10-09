@@ -23,15 +23,17 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
+  var cantHear = "I can't hear you!"
+  if (string = string.toLowerCase) {
+ return cantHear
+}
+
+function sayHiToGrandma(string) {
     var yesIndeed = "YES INDEED!"
     if (string = string.toUpperCase) {
      return yesIndeed
    }
 }
 
-function sayHiToGrandma(string) {
-  var cantHear = "I can't hear you!"
-  if (string = string.toLowerCase) {
- return cantHear
-}
+
 }
